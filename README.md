@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.ampis.org): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Abdullah](https://abdullah.cloud/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Abdullah](https://ampis.org/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/zer-far/status/workflows/Uptime%20CI/badge.svg)](https://github.com/zer-far/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/zer-far/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/zer-far/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -27,5 +27,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Abdullah](https://abdullah.cloud/)
+- Code: [MIT](./LICENSE) © [Abdullah](https://ampis.org/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
