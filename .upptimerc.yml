@@ -11,7 +11,7 @@ sites:
     url: https://bin.ampis.org
   - name: Lstu - url.ampis.org
     url: https://url.ampis.org
-    - name: Jirafeau - upload.ampis.org
+  - name: Jirafeau - upload.ampis.org
     url: https://upload.ampis.org
 
 status-website:
