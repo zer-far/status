@@ -13,6 +13,8 @@ sites:
     url: https://url.ampis.org
   - name: Jirafeau - upload.ampis.org
     url: https://upload.ampis.org
+  - name: Bibliogram - bibliogram.ampis.org
+    url: https://bibliogram.ampis.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
