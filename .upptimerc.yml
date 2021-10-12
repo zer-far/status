@@ -17,6 +17,8 @@ sites:
     url: https://bibliogram.ampis.org
   - name: RetroArch - retroarch.ampis.org
     url: https://retroarch.ampis.org
+  - name: SPFToolbox - spftoolbox.ampis.org
+    url: https://spftoolbox.ampis.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
