@@ -4,19 +4,19 @@
     "url": "https://ampis.org",
     "icon": "https://favicons.githubusercontent.com/ampis.org",
     "slug": "website",
-    "status": "down",
-    "uptime": "91.08%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "91.08%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "status": "up",
+    "uptime": "93.15%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "93.15%",
+    "uptimeMonth": "93.15%",
+    "uptimeYear": "93.15%",
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {
-      "2021-10-12": 3
+      "2021-10-12": 4
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium",
     "status": "down",
-    "uptime": "92.08%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "92.08%",
+    "uptime": "92.89%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "92.89%",
     "time": 387,
     "timeDay": 387,
     "timeWeek": 387,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2021-10-12": 2
+      "2021-10-12": 4
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://bin.ampis.org",
     "icon": "https://favicons.githubusercontent.com/bin.ampis.org",
     "slug": "private-bin",
-    "status": "down",
-    "uptime": "93.43%",
-    "uptimeDay": "93.43%",
-    "uptimeWeek": "93.43%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "93.43%",
-    "time": 462,
-    "timeDay": 462,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "status": "up",
+    "uptime": "86.58%",
+    "uptimeDay": "86.58%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "86.58%",
+    "uptimeYear": "86.58%",
+    "time": 986,
+    "timeDay": 986,
+    "timeWeek": 986,
+    "timeMonth": 986,
+    "timeYear": 986,
     "dailyMinutesDown": {
-      "2021-10-12": 2
+      "2021-10-12": 8
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/url.ampis.org",
     "slug": "lstu",
     "status": "down",
-    "uptime": "94.66%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "94.66%",
+    "uptime": "86.93%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "86.93%",
+    "uptimeYear": "86.93%",
     "time": 389,
     "timeDay": 389,
     "timeWeek": 389,
     "timeMonth": 389,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2021-10-12": 2
+      "2021-10-12": 8
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://upload.ampis.org",
     "icon": "https://favicons.githubusercontent.com/upload.ampis.org",
     "slug": "jirafeau",
-    "status": "down",
-    "uptime": "95.83%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.83%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "64.74%",
+    "uptimeDay": "64.74%",
+    "uptimeWeek": "64.74%",
+    "uptimeMonth": "64.74%",
+    "uptimeYear": "64.74%",
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2021-10-12": 1
+      "2021-10-12": 20
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://bibliogram.ampis.org",
     "icon": "https://favicons.githubusercontent.com/bibliogram.ampis.org",
     "slug": "bibliogram",
-    "status": "down",
-    "uptime": "97.01%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "97.01%",
-    "time": 270,
-    "timeDay": 270,
-    "timeWeek": 270,
-    "timeMonth": 270,
-    "timeYear": 270,
+    "status": "up",
+    "uptime": "96.46%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "96.46%",
+    "time": 668,
+    "timeDay": 668,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2021-10-12": 1
+      "2021-10-12": 2
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://retroarch.ampis.org",
     "icon": "https://favicons.githubusercontent.com/retroarch.ampis.org",
     "slug": "retro-arch",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.24%",
-    "time": 459,
-    "timeDay": 459,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 459,
+    "status": "up",
+    "uptime": "97.33%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
+    "time": 431,
+    "timeDay": 431,
+    "timeWeek": 431,
+    "timeMonth": 431,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2021-10-12": 0
+      "2021-10-12": 2
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://spftoolbox.ampis.org",
     "icon": "https://favicons.githubusercontent.com/spftoolbox.ampis.org",
     "slug": "spf-toolbox",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
+    "time": 426,
+    "timeDay": 426,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2021-10-12": 0
+      "2021-10-12": 1
     }
   }
 ]
