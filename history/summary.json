@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 264,
-    "timeDay": 976,
-    "timeWeek": 387,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 266,
+    "timeDay": 313,
+    "timeWeek": 380,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2021-10-12": 4
     }
@@ -24,18 +24,19 @@
     "url": "https://tor.ampis.org",
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 600,
-    "timeDay": 659,
-    "timeWeek": 635,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "time": 607,
+    "timeDay": 771,
+    "timeWeek": 666,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {
+      "2021-10-29": 0,
       "2021-10-12": 4
     }
   },
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 680,
-    "timeDay": 1587,
-    "timeWeek": 853,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "time": 676,
+    "timeDay": 610,
+    "timeWeek": 861,
+    "timeMonth": 676,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2021-10-12": 8
     }
@@ -71,8 +72,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 423,
-    "timeDay": 479,
-    "timeWeek": 454,
+    "timeDay": 428,
+    "timeWeek": 457,
     "timeMonth": 423,
     "timeYear": 423,
     "dailyMinutesDown": {
@@ -85,14 +86,14 @@
     "icon": "https://favicons.githubusercontent.com/upload.ampis.org",
     "slug": "jirafeau",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 434,
-    "timeDay": 472,
-    "timeWeek": 480,
+    "timeDay": 423,
+    "timeWeek": 482,
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
@@ -110,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 423,
-    "timeDay": 475,
-    "timeWeek": 433,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 425,
+    "timeDay": 455,
+    "timeWeek": 439,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2021-10-12": 2
     }
@@ -130,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 503,
-    "timeDay": 611,
-    "timeWeek": 604,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "time": 506,
+    "timeDay": 564,
+    "timeWeek": 609,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2021-10-12": 2
     }
@@ -150,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 613,
-    "timeWeek": 525,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "time": 493,
+    "timeDay": 559,
+    "timeWeek": 531,
+    "timeMonth": 493,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2021-10-12": 1
     }
