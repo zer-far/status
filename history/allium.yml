@@ -1,7 +1,7 @@
 url: https://tor.ampis.org
-status: up
-code: 200
-responseTime: 961
-lastUpdated: 2021-11-04T23:22:27.431Z
+status: down
+code: 404
+responseTime: 5653
+lastUpdated: 2021-11-05T02:42:07.001Z
 startTime: Tue Oct 12 2021 18:38:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
