@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 261,
-    "timeDay": 457,
-    "timeWeek": 284,
-    "timeMonth": 283,
-    "timeYear": 261,
+    "time": 260,
+    "timeDay": 237,
+    "timeWeek": 271,
+    "timeMonth": 278,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2021-10-12": 4
     }
@@ -25,18 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.65%",
-    "time": 840,
-    "timeDay": 761,
-    "timeWeek": 656,
-    "timeMonth": 924,
-    "timeYear": 840,
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.66%",
+    "time": 834,
+    "timeDay": 633,
+    "timeWeek": 617,
+    "timeMonth": 926,
+    "timeYear": 834,
     "dailyMinutesDown": {
-      "2021-11-26": 8,
       "2021-11-11": 18,
       "2021-11-10": 52,
       "2021-11-07": 17,
@@ -59,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 603,
-    "timeDay": 588,
-    "timeWeek": 567,
+    "time": 598,
+    "timeDay": 367,
+    "timeWeek": 528,
     "timeMonth": 573,
-    "timeYear": 603,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2021-10-12": 8
     }
@@ -79,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 432,
-    "timeDay": 443,
-    "timeWeek": 457,
-    "timeMonth": 439,
-    "timeYear": 432,
+    "time": 431,
+    "timeDay": 394,
+    "timeWeek": 445,
+    "timeMonth": 437,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2021-10-12": 8
     }
@@ -99,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 420,
-    "timeDay": 425,
-    "timeWeek": 389,
-    "timeMonth": 403,
-    "timeYear": 420,
+    "time": 417,
+    "timeDay": 275,
+    "timeWeek": 362,
+    "timeMonth": 404,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2021-10-12": 20
     }
@@ -119,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 429,
-    "timeWeek": 411,
-    "timeMonth": 413,
-    "timeYear": 419,
+    "time": 416,
+    "timeDay": 289,
+    "timeWeek": 382,
+    "timeMonth": 410,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2021-10-12": 2
     }
@@ -139,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 532,
-    "timeWeek": 526,
-    "timeMonth": 507,
-    "timeYear": 503,
+    "time": 500,
+    "timeDay": 341,
+    "timeWeek": 481,
+    "timeMonth": 500,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2021-10-12": 2
     }
@@ -159,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 536,
-    "timeWeek": 503,
-    "timeMonth": 493,
-    "timeYear": 495,
+    "time": 494,
+    "timeDay": 472,
+    "timeWeek": 482,
+    "timeMonth": 497,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2021-10-12": 1
     }
