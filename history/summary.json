@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 256,
-    "timeDay": 238,
-    "timeWeek": 255,
-    "timeMonth": 257,
-    "timeYear": 256,
+    "time": 257,
+    "timeDay": 322,
+    "timeWeek": 236,
+    "timeMonth": 262,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2021-10-12": 4
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
-    "time": 813,
-    "timeDay": 516,
-    "timeWeek": 588,
-    "timeMonth": 937,
-    "timeYear": 813,
+    "time": 811,
+    "timeDay": 678,
+    "timeWeek": 585,
+    "timeMonth": 942,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2021-11-11": 18,
       "2021-11-10": 52,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 586,
-    "timeDay": 349,
-    "timeWeek": 469,
-    "timeMonth": 527,
-    "timeYear": 586,
+    "time": 585,
+    "timeDay": 557,
+    "timeWeek": 465,
+    "timeMonth": 534,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2021-10-12": 8
     }
@@ -73,16 +73,16 @@
     "icon": "https://favicons.githubusercontent.com/url.ampis.org",
     "slug": "lstu",
     "status": "up",
-    "uptime": "93.66%",
-    "uptimeDay": "0.00%",
+    "uptime": "93.68%",
+    "uptimeDay": "22.30%",
     "uptimeWeek": "53.82%",
     "uptimeMonth": "89.37%",
-    "uptimeYear": "93.66%",
-    "time": 426,
-    "timeDay": 489,
-    "timeWeek": 397,
-    "timeMonth": 430,
-    "timeYear": 426,
+    "uptimeYear": "93.68%",
+    "time": 441,
+    "timeDay": 992,
+    "timeWeek": 488,
+    "timeMonth": 457,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2021-12-02": 1168,
       "2021-12-01": 1440,
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 407,
-    "timeDay": 262,
+    "time": 408,
+    "timeDay": 422,
     "timeWeek": 326,
-    "timeMonth": 383,
-    "timeYear": 407,
+    "timeMonth": 384,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2021-10-12": 20
     }
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 262,
-    "timeWeek": 323,
-    "timeMonth": 395,
+    "timeDay": 409,
+    "timeWeek": 320,
+    "timeMonth": 393,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2021-10-12": 2
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 343,
-    "timeWeek": 402,
-    "timeMonth": 477,
-    "timeYear": 489,
+    "time": 490,
+    "timeDay": 516,
+    "timeWeek": 400,
+    "timeMonth": 479,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2021-10-12": 2
     }
@@ -162,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 340,
+    "time": 485,
+    "timeDay": 537,
     "timeWeek": 416,
-    "timeMonth": 477,
-    "timeYear": 484,
+    "timeMonth": 480,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2021-10-12": 1
     }
