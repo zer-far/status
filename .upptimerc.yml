@@ -7,18 +7,6 @@ sites:
     url: https://ampis.org
   - name: Allium
     url: https://tor.ampis.org
-  - name: PrivateBin
-    url: https://bin.ampis.org
-  - name: Lstu
-    url: https://url.ampis.org
-  - name: Jirafeau
-    url: https://upload.ampis.org
-  - name: Bibliogram
-    url: https://bibliogram.ampis.org
-  - name: RetroArch
-    url: https://retroarch.ampis.org
-  - name: SPFToolbox
-    url: https://spftoolbox.ampis.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
