@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 85,
-    "timeWeek": 176,
-    "timeMonth": 253,
-    "timeYear": 255,
+    "time": 256,
+    "timeDay": 199,
+    "timeWeek": 193,
+    "timeMonth": 255,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2021-10-12": 4
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.67%",
-    "time": 791,
-    "timeDay": 371,
-    "timeWeek": 642,
-    "timeMonth": 643,
-    "timeYear": 791,
+    "uptimeYear": "99.68%",
+    "time": 790,
+    "timeDay": 550,
+    "timeWeek": 655,
+    "timeMonth": 645,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2021-12-07": 71,
       "2021-11-11": 18,
@@ -46,130 +46,6 @@
       "2021-10-30": 23,
       "2021-10-29": 7,
       "2021-10-12": 4
-    }
-  },
-  {
-    "name": "PrivateBin",
-    "url": "https://bin.ampis.org",
-    "icon": "https://favicons.githubusercontent.com/bin.ampis.org",
-    "slug": "private-bin",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 582,
-    "timeDay": 528,
-    "timeWeek": 558,
-    "timeMonth": 550,
-    "timeYear": 582,
-    "dailyMinutesDown": {
-      "2021-10-12": 8
-    }
-  },
-  {
-    "name": "Lstu",
-    "url": "https://url.ampis.org",
-    "icon": "https://favicons.githubusercontent.com/url.ampis.org",
-    "slug": "lstu",
-    "status": "up",
-    "uptime": "94.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "94.80%",
-    "time": 574,
-    "timeDay": 828,
-    "timeWeek": 1141,
-    "timeMonth": 744,
-    "timeYear": 574,
-    "dailyMinutesDown": {
-      "2021-12-02": 1168,
-      "2021-12-01": 1440,
-      "2021-11-30": 1440,
-      "2021-11-29": 607,
-      "2021-10-12": 8
-    }
-  },
-  {
-    "name": "Jirafeau",
-    "url": "https://upload.ampis.org",
-    "icon": "https://favicons.githubusercontent.com/upload.ampis.org",
-    "slug": "jirafeau",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 415,
-    "timeDay": 263,
-    "timeWeek": 392,
-    "timeMonth": 418,
-    "timeYear": 415,
-    "dailyMinutesDown": {
-      "2021-10-12": 20
-    }
-  },
-  {
-    "name": "Bibliogram",
-    "url": "https://bibliogram.ampis.org",
-    "icon": "https://favicons.githubusercontent.com/bibliogram.ampis.org",
-    "slug": "bibliogram",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 262,
-    "timeWeek": 397,
-    "timeMonth": 409,
-    "timeYear": 408,
-    "dailyMinutesDown": {
-      "2021-10-12": 2
-    }
-  },
-  {
-    "name": "RetroArch",
-    "url": "https://retroarch.ampis.org",
-    "icon": "https://favicons.githubusercontent.com/retroarch.ampis.org",
-    "slug": "retro-arch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 340,
-    "timeWeek": 498,
-    "timeMonth": 499,
-    "timeYear": 496,
-    "dailyMinutesDown": {
-      "2021-10-12": 2
-    }
-  },
-  {
-    "name": "SPFToolbox",
-    "url": "https://spftoolbox.ampis.org",
-    "icon": "https://favicons.githubusercontent.com/spftoolbox.ampis.org",
-    "slug": "spf-toolbox",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 340,
-    "timeWeek": 506,
-    "timeMonth": 507,
-    "timeYear": 493,
-    "dailyMinutesDown": {
-      "2021-10-12": 1
     }
   }
 ]
