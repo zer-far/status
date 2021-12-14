@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 199,
-    "timeWeek": 193,
-    "timeMonth": 255,
-    "timeYear": 256,
+    "time": 254,
+    "timeDay": 186,
+    "timeWeek": 189,
+    "timeMonth": 252,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2021-10-12": 4
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.68%",
     "time": 790,
-    "timeDay": 550,
-    "timeWeek": 655,
-    "timeMonth": 645,
+    "timeDay": 605,
+    "timeWeek": 661,
+    "timeMonth": 647,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2021-12-07": 71,
@@ -47,5 +47,23 @@
       "2021-10-29": 7,
       "2021-10-12": 4
     }
+  },
+  {
+    "name": "Chat",
+    "url": "https://chat.ampis.org",
+    "icon": "https://favicons.githubusercontent.com/chat.ampis.org",
+    "slug": "chat",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 7246,
+    "timeDay": 7246,
+    "timeWeek": 7246,
+    "timeMonth": 7246,
+    "timeYear": 7246,
+    "dailyMinutesDown": {}
   }
 ]
