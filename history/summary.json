@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 166,
-    "timeWeek": 157,
-    "timeMonth": 244,
+    "timeDay": 204,
+    "timeWeek": 173,
+    "timeMonth": 241,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2021-10-12": 4
@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 770,
-    "timeDay": 280,
-    "timeWeek": 542,
+    "timeDay": 775,
+    "timeWeek": 568,
     "timeMonth": 615,
     "timeYear": 770,
     "dailyMinutesDown": {
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1752,
-    "timeDay": 204,
-    "timeWeek": 1752,
-    "timeMonth": 1752,
-    "timeYear": 1752,
+    "time": 1533,
+    "timeDay": 438,
+    "timeWeek": 1533,
+    "timeMonth": 1533,
+    "timeYear": 1533,
     "dailyMinutesDown": {}
   }
 ]
