@@ -24,9 +24,9 @@
     "url": "https://tor.ampis.org",
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.68%",
@@ -36,6 +36,7 @@
     "timeMonth": 601,
     "timeYear": 762,
     "dailyMinutesDown": {
+      "2021-12-23": 0,
       "2021-12-15": 41,
       "2021-12-07": 71,
       "2021-11-11": 18,
@@ -54,7 +55,7 @@
     "url": "https://chat.ampis.org",
     "icon": "https://favicons.githubusercontent.com/chat.ampis.org",
     "slug": "chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -65,6 +66,8 @@
     "timeWeek": 474,
     "timeMonth": 1126,
     "timeYear": 1126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-23": 0
+    }
   }
 ]
