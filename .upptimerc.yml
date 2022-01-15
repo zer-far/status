@@ -3,13 +3,13 @@ owner: zer-far # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: Website
+  - name: Website - ampis.org
     url: https://ampis.org
-  - name: Allium
+  - name: Allium - tor.ampis.org
     url: https://tor.ampis.org
-  - name: Chat
+  - name: Chat - chat.ampis.org
     url: https://chat.ampis.org
-  - name: Calendar
+  - name: Calendar - calendar.ampis.org
     url: https://calendar.ampis.org
 
 status-website:
