@@ -13,6 +13,8 @@ sites:
     url: https://calendar.ampis.org
   - name: Pastebin - pastebin.ampis.org
     url: https://pastebin.ampis.org
+  - name: Translate - translate.ampis.org
+    url: https://translate.ampis.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
