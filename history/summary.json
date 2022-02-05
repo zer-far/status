@@ -99,19 +99,19 @@
     "url": "https://translate.ampis.org",
     "icon": "https://favicons.githubusercontent.com/translate.ampis.org",
     "slug": "translate-translate-ampis-org",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "97.91%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-05": 22
     }
   }
 ]
