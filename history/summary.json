@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium-allium-ampis-org",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 28
+      "2022-02-05": 109
     }
   },
   {
@@ -62,10 +62,10 @@
     "url": "https://calendar.ampis.org",
     "icon": "https://favicons.githubusercontent.com/calendar.ampis.org",
     "slug": "calendar-calendar-ampis-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
@@ -73,7 +73,9 @@
     "timeWeek": 132,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 1
+    }
   },
   {
     "name": "Pastebin - pastebin.ampis.org",
@@ -81,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/pastebin.ampis.org",
     "slug": "pastebin-pastebin-ampis-org",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 127,
     "timeDay": 65,
     "timeWeek": 88,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-05": 81
     }
   },
   {
@@ -100,12 +102,12 @@
     "url": "https://translate.ampis.org",
     "icon": "https://favicons.githubusercontent.com/translate.ampis.org",
     "slug": "translate-translate-ampis-org",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 227,
     "timeDay": 227,
     "timeWeek": 227,
