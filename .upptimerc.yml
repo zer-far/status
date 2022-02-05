@@ -6,7 +6,7 @@ sites:
   - name: Website - ampis.org
     url: https://ampis.org
   - name: Allium - allium.ampis.org
-    url: https://tor.ampis.org
+    url: https://allium.ampis.org
   - name: Chat - chat.ampis.org
     url: https://chat.ampis.org
   - name: Calendar - calendar.ampis.org
