@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/tor.ampis.org",
     "slug": "allium-allium-ampis-org",
     "status": "down",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 1
+      "2022-02-05": 9
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://calendar.ampis.org",
     "icon": "https://favicons.githubusercontent.com/calendar.ampis.org",
     "slug": "calendar-calendar-ampis-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 158,
-    "timeWeek": 140,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 131,
+    "timeDay": 128,
+    "timeWeek": 132,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-02-05": 1
+      "2022-02-05": 8
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://pastebin.ampis.org",
     "icon": "https://favicons.githubusercontent.com/pastebin.ampis.org",
     "slug": "pastebin-pastebin-ampis-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 79,
-    "timeWeek": 94,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 127,
+    "timeDay": 65,
+    "timeWeek": 88,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-05": 8
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://translate.ampis.org",
     "icon": "https://favicons.githubusercontent.com/translate.ampis.org",
     "slug": "translate-translate-ampis-org",
-    "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
-    "time": 285,
-    "timeDay": 285,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 227,
+    "timeDay": 227,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2022-02-05": 22
+      "2022-02-05": 30
     }
   }
 ]
