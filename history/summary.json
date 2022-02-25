@@ -147,19 +147,19 @@
     "url": "https://times.ampis.org",
     "icon": "https://favicons.githubusercontent.com/times.ampis.org",
     "slug": "times-times-ampis-org",
-    "status": "up",
-    "uptime": "90.23%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "90.23%",
-    "uptimeYear": "90.23%",
+    "status": "down",
+    "uptime": "92.35%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "92.35%",
     "time": 173,
     "timeDay": 173,
     "timeWeek": 173,
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-02-25": 8,
+      "2022-02-25": 0,
       "2022-02-24": 44
     }
   }
