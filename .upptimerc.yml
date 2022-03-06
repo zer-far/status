@@ -17,6 +17,8 @@ sites:
     url: https://translate.ampis.org
   - name: Times - times.ampis.org
     url: https://times.ampis.org
+  - name: Thgtoa - thgtoa.ampis.org
+    url: https://thgtoa.ampis.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
