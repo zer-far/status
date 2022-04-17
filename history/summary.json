@@ -33,7 +33,7 @@
     "time": 307,
     "timeDay": 269,
     "timeWeek": 333,
-    "timeMonth": 302,
+    "timeMonth": 292,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2022-02-05": 168
@@ -53,7 +53,7 @@
     "time": 2985,
     "timeDay": 887,
     "timeWeek": 1969,
-    "timeMonth": 3954,
+    "timeMonth": 3982,
     "timeYear": 2985,
     "dailyMinutesDown": {
       "2022-04-15": 20,
@@ -112,7 +112,7 @@
     "time": 116,
     "timeDay": 100,
     "timeWeek": 62,
-    "timeMonth": 114,
+    "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -130,7 +130,7 @@
     "time": 184,
     "timeDay": 5575,
     "timeWeek": 788,
-    "timeMonth": 226,
+    "timeMonth": 231,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2022-04-14": 20,
@@ -148,16 +148,16 @@
     "url": "https://translate.ampis.org",
     "icon": "https://favicons.githubusercontent.com/translate.ampis.org",
     "slug": "translate-translate-ampis-org",
-    "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "96.53%",
+    "status": "down",
+    "uptime": "97.70%",
+    "uptimeDay": "96.52%",
     "uptimeWeek": "95.46%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "97.68%",
+    "uptimeYear": "97.70%",
     "time": 169,
     "timeDay": 59,
     "timeWeek": 169,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2022-04-17": 50,
@@ -199,8 +199,7 @@
       "2022-03-10": 73,
       "2022-03-08": 46,
       "2022-03-07": 81,
-      "2022-03-06": 129,
-      "2022-03-05": 18
+      "2022-03-06": 129
     }
   },
   {
@@ -268,7 +267,7 @@
     "time": 174,
     "timeDay": 162,
     "timeWeek": 276,
-    "timeMonth": 184,
+    "timeMonth": 188,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2022-04-08": 1078,
