@@ -171,18 +171,17 @@
     "icon": "https://favicons.githubusercontent.com/translate.ampis.org",
     "slug": "translate-translate-ampis-org",
     "status": "up",
-    "uptime": "97.79%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "93.62%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "97.79%",
+    "uptime": "97.77%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "97.77%",
     "time": 191,
     "timeDay": 1211,
     "timeWeek": 353,
     "timeMonth": 200,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-04-23": 3,
       "2022-04-22": 64,
       "2022-04-21": 81,
       "2022-04-20": 168,
@@ -221,7 +220,7 @@
       "2022-03-17": 91,
       "2022-03-16": 125,
       "2022-03-15": 24,
-      "2022-03-14": 52
+      "2022-03-14": 79
     }
   },
   {
@@ -283,7 +282,7 @@
     "slug": "thgtoa-thgtoa-ampis-org",
     "status": "up",
     "uptime": "84.12%",
-    "uptimeDay": "9.27%",
+    "uptimeDay": "9.30%",
     "uptimeWeek": "83.35%",
     "uptimeMonth": "75.05%",
     "uptimeYear": "84.12%",
