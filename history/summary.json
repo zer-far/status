@@ -178,7 +178,7 @@
     "uptimeYear": "97.77%",
     "time": 191,
     "timeDay": 1211,
-    "timeWeek": 353,
+    "timeWeek": 358,
     "timeMonth": 200,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -228,15 +228,15 @@
     "url": "https://times.ampis.org",
     "icon": "https://favicons.githubusercontent.com/times.ampis.org",
     "slug": "times-times-ampis-org",
-    "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "90.61%",
+    "status": "down",
+    "uptime": "95.93%",
+    "uptimeDay": "90.59%",
     "uptimeWeek": "93.36%",
     "uptimeMonth": "92.88%",
-    "uptimeYear": "95.91%",
+    "uptimeYear": "95.93%",
     "time": 169,
     "timeDay": 471,
-    "timeWeek": 186,
+    "timeWeek": 188,
     "timeMonth": 222,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -272,7 +272,7 @@
       "2022-03-24": 63,
       "2022-03-23": 67,
       "2022-03-21": 168,
-      "2022-03-20": 74
+      "2022-03-20": 57
     }
   },
   {
@@ -281,11 +281,11 @@
     "icon": "https://favicons.githubusercontent.com/thgtoa.ampis.org",
     "slug": "thgtoa-thgtoa-ampis-org",
     "status": "up",
-    "uptime": "84.12%",
-    "uptimeDay": "9.30%",
+    "uptime": "84.13%",
+    "uptimeDay": "11.14%",
     "uptimeWeek": "83.35%",
     "uptimeMonth": "75.05%",
-    "uptimeYear": "84.12%",
+    "uptimeYear": "84.13%",
     "time": 189,
     "timeDay": 186,
     "timeWeek": 249,
