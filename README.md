@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.ampis.org): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Abdullah](https://ampis.org/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Ampis](https://ampis.org/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/zer-far/status/workflows/Uptime%20CI/badge.svg)](https://github.com/zer-far/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/zer-far/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/zer-far/status/actions?query=workflow%3A%22Response+Time+CI%22)
