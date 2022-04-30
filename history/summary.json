@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 2998,
     "timeDay": 5043,
-    "timeWeek": 3162,
+    "timeWeek": 3355,
     "timeMonth": 2998,
     "timeYear": 2998,
     "dailyMinutesDown": {}
@@ -174,12 +174,12 @@
     "url": "https://translate.ampis.org",
     "icon": "https://favicons.githubusercontent.com/translate.ampis.org",
     "slug": "translate-translate-ampis-org",
-    "status": "up",
-    "uptime": "97.18%",
-    "uptimeDay": "88.00%",
+    "status": "down",
+    "uptime": "97.22%",
+    "uptimeDay": "87.99%",
     "uptimeWeek": "75.89%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "97.18%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "97.22%",
     "time": 203,
     "timeDay": 213,
     "timeWeek": 270,
@@ -205,7 +205,7 @@
       "2022-04-14": 64,
       "2022-04-13": 94,
       "2022-04-12": 45,
-      "2022-04-11": 92
+      "2022-04-11": 43
     }
   },
   {
@@ -214,18 +214,18 @@
     "icon": "https://favicons.githubusercontent.com/times.ampis.org",
     "slug": "times-times-ampis-org",
     "status": "up",
-    "uptime": "96.82%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "96.82%",
+    "uptime": "96.62%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "96.62%",
     "time": 170,
     "timeDay": 151,
     "timeWeek": 108,
     "timeMonth": 229,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-04-30": 30,
+      "2022-04-30": 19,
       "2022-04-28": 247,
       "2022-04-27": 178,
       "2022-04-26": 391,
@@ -252,7 +252,7 @@
       "2022-04-05": 67,
       "2022-04-04": 88,
       "2022-04-02": 51,
-      "2022-04-01": 80
+      "2022-04-01": 276
     }
   },
   {
@@ -263,8 +263,8 @@
     "status": "down",
     "uptime": "74.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.72%",
-    "uptimeMonth": "53.35%",
+    "uptimeWeek": "5.62%",
+    "uptimeMonth": "53.33%",
     "uptimeYear": "74.15%",
     "time": 193,
     "timeDay": 65,
@@ -272,7 +272,7 @@
     "timeMonth": 223,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2022-04-30": 950,
+      "2022-04-30": 959,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
